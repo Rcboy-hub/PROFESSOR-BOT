@@ -1,4 +1,4 @@
-mport os
+import os
 from pymongo import MongoClient
 from telebot import TeleBot
 
